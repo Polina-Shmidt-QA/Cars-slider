@@ -1,2 +1,1 @@
-# Cars-slider
-javascript
+# Фото-слайдер машин на JavaScript
